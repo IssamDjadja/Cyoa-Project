@@ -4,4 +4,4 @@ You notice that the bear wants to attack the wolf and so you duck right when the
 
 [Continue running](weak.md)
 
-[Follow a fimilar noise](curious.md) 
+[Follow a familiar noise](curious.md) 
