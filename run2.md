@@ -2,4 +2,4 @@
 
 You run with every ounce of strength to only be relived when you witness a car stop for you. The door opens immediately and you jump in. The bear manages to grab on but the young lady steps on the breaks and jumps to 120 mph. The bear tries but falls off. You look into the right hand mirror and look into the red eyes of the bear with a smirk. The driver asks where you have been? And you reply with a loud voice "ON A CRAZY ADVENTURE". The driver takes you to the hospital and you explain what happened to you. When you reach the hospital you blackout. Upon awakening you see yourself back home with a cast on one leg and bandages on the other. You feel relived and go back to sleep with soothing dreams.
 
-[If you want to go on a thrilling adventure you can at your own expense](../Home.md).
+[If you want to go on a thrilling adventure you can at your own expense](./Home.md).
