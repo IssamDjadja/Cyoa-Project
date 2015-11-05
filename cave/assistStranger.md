@@ -5,5 +5,5 @@
 
 From a distance, you witnessed a death occurring in front of you. You start to run with the stranger! You encounter a monster!
 
-[Pick sword up]()
+[Pick sword up]()  
 [Grab gun]()
