@@ -4,3 +4,4 @@
 ---
 
 From a distance, you witnessed a death occurring in front of you. You start to run with the stranger! GO !
+[RUN](run.md)
