@@ -5,4 +5,4 @@ Running back to your friend to help her up and start running again. You encounte
 
 ---
 Climb up the [stairs](stairs.md)  
-Run [left](left.md
+Run [left](left.md)
