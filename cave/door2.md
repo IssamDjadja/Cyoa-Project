@@ -8,4 +8,8 @@ A helicopter flew to the area it received to travel to and took out the dragon.
 
 "THANK GOD YOU ARE HERE! SAVE US! PLEASE!" you screamed. 
 
-**And to think you are safe and can fly back home, the lava dragon still had strength to pull you down and the helicopter crashed into the giant mountain. ** 
+**And to think you are safe and can fly back home, the lava dragon still had strength to pull you down and the helicopter crashed into the giant mountain. **  
+You were killed by the lava dragon! Darn it!
+
+---
+[Start Over](../Home.md)

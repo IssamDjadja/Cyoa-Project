@@ -1,4 +1,4 @@
-# You lit the torch
+# The Light
 
 ---
 
@@ -8,6 +8,5 @@ Your friend said to light a torch so you can have a better vision of your path t
 
 Now you can see the majority of the cave and found another cave entrance. 
 
+---
 [Approach cave entrance](entrance.md)
-
-

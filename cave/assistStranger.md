@@ -10,5 +10,5 @@ From a distance, you witnessed a death occurring in front of you. You start to r
 From a distance, you witnessed a death occurring in front of you. You start to run with the stranger! You encounter a monster!
 
 ---
-[Pick sword up]()  
-[Grab gun]()
+[Pick sword up](sword.md)  
+[Grab gun](gun.md)
