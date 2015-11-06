@@ -15,5 +15,6 @@ _You begin to break down the door but the shield broke due to previous use_
 
 You rapidly search for a tool or weapon to break down the door to enter the building.
 
+---
 Take the [axe](axe.md)  
 Pick up the [crowbar](crowbar.md)
