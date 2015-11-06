@@ -1,4 +1,4 @@
-###You hear an onimous noise and flowing current, where do you want to travel to?
+###You hear an onimous noise and a flowing current, where do you want to travel to?
 ---
 
 [Explore River](explore.md)   
