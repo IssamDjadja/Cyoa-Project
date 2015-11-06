@@ -20,4 +20,4 @@ _THIRD DAY PASSED AND YOUR FOOD IS RUNNING LOW_
 Thankfully, there were a few construction workers that passed by and rescued you. You escaped with your friend, but your friend could not maintain his sanity and was put in a mental hospital till he heals.
 
 ---
-[Start Over](../Home.md
+[Start Over](../Home.md)
